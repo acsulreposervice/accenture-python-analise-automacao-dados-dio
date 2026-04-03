@@ -7,4 +7,4 @@ O assunto escolhido por mim para este desafio **serão os assuntos ministrados n
 As fontes utilizadas serão os **conteúdos do curso**, links e outros tipos de mídias disponibilizadas nos ambientes de aprendizado.
 
 ### Link do Notebook
-Clicando [**aqui**][https://notebooklm.google.com/notebook/97f0bc7a-e46e-4899-a712-57409a79dd3f], você será redirecionado(a) para o notebook.
+Clicando [Aqui](https://notebooklm.google.com/notebook/97f0bc7a-e46e-4899-a712-57409a79dd3f), você será redirecionado(a) para o notebook.
